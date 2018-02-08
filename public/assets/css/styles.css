@@ -1,12 +1,1 @@
-.top-box{
-    border: 1px solid black;
-    padding:4px 8px;
-    background-color: #e7e7e7;
-}
-.top-box h3{text-decoration: underline;text-transform: uppercase}
-.app-name-main{    font-size: 54px;
-    margin: 0px;
-    margin-top: -16px;
-}
-.initial-match-data-wrapper{padding: 10px; background-color:#e7e7e7;}
-.initial-match-data-wrapper h2{text-decoration: underline;}
+.welcome-section{background-color:#2d2d2d;color:#fff;}
